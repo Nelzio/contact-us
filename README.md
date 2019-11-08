@@ -6,13 +6,13 @@
 1 - **Clone project**
 
 ```bash
-https://github.com/Nelzio/contactus.git
+https://github.com/Nelzio/contact-us.git
 ```
 
 2 - **Get project forlder**
 
 ```bash
-cd contactus
+cd contact-us
 ```
 
 3 - **Criando Venv**
